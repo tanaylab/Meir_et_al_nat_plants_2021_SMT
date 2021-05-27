@@ -945,63 +945,63 @@ print("loading plate27 (wild-type)..")
 p27 = smt_agg_UMIs_single_batch(
 object_name ="singleMers_plate27_wt_dynabeads",
 umiTab_dir = umi_tab_dir,
-pd_dir = "/net/mraid14/export/data/users/zoharme/tomato_Sc/workdir/plates_design/",
+pd_dir = plates_design_dir,
 batch_umiTab = "ABZM0375")
 
 print("loading plate28 (wild-type)..")
 p28 = smt_agg_UMIs_single_batch(
 object_name="singleMers_plate28_wt_dynabeads",
 umiTab_dir = umi_tab_dir,
-pd_dir= "/net/mraid14/export/data/users/zoharme/tomato_Sc/workdir/plates_design/",
+pd_dir= plates_design_dir,
 batch_umiTab="ABZM0376")
 
 print("loading plate29 (wild-type)..")
 p29 = smt_agg_UMIs_single_batch(
 object_name="singleMers_plate29_wt_dynabeads",
 umiTab_dir = umi_tab_dir,
-pd_dir= "/net/mraid14/export/data/users/zoharme/tomato_Sc/workdir/plates_design/",
+pd_dir= plates_design_dir,
 batch_umiTab="ABZM0377")
 
 print("loading plate30 (wild-type)..")
 p30 = smt_agg_UMIs_single_batch(
 object_name="singleMers_plate30_wt_dynabeads",
 umiTab_dir = umi_tab_dir,
-pd_dir= "/net/mraid14/export/data/users/zoharme/tomato_Sc/workdir/plates_design/",
+pd_dir= plates_design_dir,
 batch_umiTab="ABZM0378")
 
 print("loading plate36 (wild-type)..")
 p36 = smt_agg_UMIs_single_batch(
 object_name="singleMers_plate36_wt_dynabeads",
 umiTab_dir = umi_tab_dir,
-pd_dir= "/net/mraid14/export/data/users/zoharme/tomato_Sc/workdir/plates_design/",
+pd_dir= plates_design_dir,
 batch_umiTab="ABZM0408")
 
 print("loading plate37 (wild-type)..")
 p37 = smt_agg_UMIs_single_batch(
 object_name="singleMers_plate37_wt_dynabeads",
 umiTab_dir = umi_tab_dir,
-pd_dir= "/net/mraid14/export/data/users/zoharme/tomato_Sc/workdir/plates_design/",
+pd_dir= plates_design_dir,
 batch_umiTab="ABZM0409")
 
 print("loading plate45 (wild-type)..")
 p45 = smt_agg_UMIs_single_batch(
 object_name="singleMers_plate45_wt_dynabeads",
 umiTab_dir = umi_tab_dir,
-pd_dir= "/net/mraid14/export/data/users/zoharme/tomato_Sc/workdir/plates_design/",
+pd_dir= plates_design_dir,
 batch_umiTab="ABZM0418")
 
 print("loading plate46 (wild-type)..")
 p46 = smt_agg_UMIs_single_batch(
 object_name="singleMers_plate46_wt_dynabeads",
 umiTab_dir = umi_tab_dir,
-pd_dir= "/net/mraid14/export/data/users/zoharme/tomato_Sc/workdir/plates_design/",
+pd_dir= plates_design_dir,
 batch_umiTab="ABZM0419")
 
 print("loading plate47 (wild-type)..")
 p47 = smt_agg_UMIs_single_batch(
 object_name="singleMers_plate47_wt_dynabeads",
 umiTab_dir = umi_tab_dir,
-pd_dir= "/net/mraid14/export/data/users/zoharme/tomato_Sc/workdir/plates_design/",
+pd_dir= plates_design_dir,
 batch_umiTab="ABZM0420")
 }
 
@@ -1011,35 +1011,35 @@ print("loading plate22 (sft n7187 mutants + dst mutants)..")
 p22 = smt_agg_UMIs_single_batch(
 object_name="singleMers_plate22_sft_dst_dynabeads",
 umiTab_dir = umi_tab_dir,
-pd_dir= "/net/mraid14/export/data/users/zoharme/tomato_Sc/workdir/plates_design/",
+pd_dir= plates_design_dir,
 batch_umiTab="ABZM0370")
 
 print("loading plate23 (sft n7187 mutants + dst mutants)..")
 p23 = smt_agg_UMIs_single_batch(
 object_name="singleMers_plate23_sft_dst_dynabeads",
 umiTab_dir = umi_tab_dir,
-pd_dir= "/net/mraid14/export/data/users/zoharme/tomato_Sc/workdir/plates_design/",
+pd_dir= plates_design_dir,
 batch_umiTab="ABZM0371")
 
 print("loading plate24 (sft n7187 mutants + dst mutants)..")
 p24 = smt_agg_UMIs_single_batch(
 object_name="singleMers_plate24_sft_dst_dynabeads",
 umiTab_dir = umi_tab_dir,
-pd_dir= "/net/mraid14/export/data/users/zoharme/tomato_Sc/workdir/plates_design/",
+pd_dir= plates_design_dir,
 batch_umiTab="ABZM0372")
 
 print("loading plate25 (sft n7187 mutants + dst mutants)..")
 p25 = smt_agg_UMIs_single_batch(
 object_name="singleMers_plate25_sft_dst_dynabeads",
 umiTab_dir = umi_tab_dir,
-pd_dir= "/net/mraid14/export/data/users/zoharme/tomato_Sc/workdir/plates_design/",
+pd_dir= plates_design_dir,
 batch_umiTab="ABZM0373")
 
 print("loading plate26 (sft n7187 mutants + dst mutants)..")
 p26 = smt_agg_UMIs_single_batch(
 object_name="singleMers_plate26_sft_dst_dynabeads",
 umiTab_dir = umi_tab_dir,
-pd_dir= "/net/mraid14/export/data/users/zoharme/tomato_Sc/workdir/plates_design/",
+pd_dir= plates_design_dir,
 batch_umiTab="ABZM0374")
 }
 
@@ -1048,35 +1048,35 @@ print("loading plate31 (dst mutants)..")
 p31 = smt_agg_UMIs_single_batch(
 object_name="singleMers_plate31_dst_dynabeads",
 umiTab_dir = umi_tab_dir,
-pd_dir= "/net/mraid14/export/data/users/zoharme/tomato_Sc/workdir/plates_design/",
+pd_dir= plates_design_dir,
 batch_umiTab="ABZM0403")
 
 print("loading plate32 (dst mutants)..")
 p32 = smt_agg_UMIs_single_batch(
 object_name="singleMers_plate32_dst_dynabeads",
 umiTab_dir = umi_tab_dir,
-pd_dir= "/net/mraid14/export/data/users/zoharme/tomato_Sc/workdir/plates_design/",
+pd_dir= plates_design_dir,
 batch_umiTab="ABZM0404")
 
 print("loading plate33 (dst mutants)..")
 p33 = smt_agg_UMIs_single_batch(
 object_name="singleMers_plate33_dst_dynabeads",
 umiTab_dir = umi_tab_dir,
-pd_dir= "/net/mraid14/export/data/users/zoharme/tomato_Sc/workdir/plates_design/",
+pd_dir= plates_design_dir,
 batch_umiTab="ABZM0405")
 
 print("loading plate40 (dst mutants)..")
 p40 = smt_agg_UMIs_single_batch(
 object_name="singleMers_plate40_dst_dynabeads",
 umiTab_dir = umi_tab_dir,
-pd_dir= "/net/mraid14/export/data/users/zoharme/tomato_Sc/workdir/plates_design/",
+pd_dir= plates_design_dir,
 batch_umiTab="ABZM0413")
 
 print("loading plate41 (dst mutants)..")
 p41 = smt_agg_UMIs_single_batch(
 object_name="singleMers_plate41_dst_dynabeads",
 umiTab_dir = umi_tab_dir,
-pd_dir= "/net/mraid14/export/data/users/zoharme/tomato_Sc/workdir/plates_design/",
+pd_dir= plates_design_dir,
 batch_umiTab="ABZM0414")
 
 }
@@ -1087,28 +1087,28 @@ print("loading plate34 (sft n7187 mutants)..")
 p34 = smt_agg_UMIs_single_batch(
 object_name="singleMers_plate34_sft_dynabeads",
 umiTab_dir = umi_tab_dir,
-pd_dir= "/net/mraid14/export/data/users/zoharme/tomato_Sc/workdir/plates_design/",
+pd_dir= plates_design_dir,
 batch_umiTab="ABZM0406")
 
 print("loading plate35 (sft n7187 mutants)..")
 p35 = smt_agg_UMIs_single_batch(
 object_name="singleMers_plate35_sft_dynabeads",
 umiTab_dir = umi_tab_dir,
-pd_dir= "/net/mraid14/export/data/users/zoharme/tomato_Sc/workdir/plates_design/",
+pd_dir= plates_design_dir,
 batch_umiTab="ABZM0407")
 
 print("loading plate38 (sft n7187 mutants)..")
 p38 = smt_agg_UMIs_single_batch(
 object_name="singleMers_plate38_sft_dynabeads",
 umiTab_dir = umi_tab_dir,
-pd_dir= "/net/mraid14/export/data/users/zoharme/tomato_Sc/workdir/plates_design/",
+pd_dir= plates_design_dir,
 batch_umiTab="ABZM0410")
 
 print("loading plate39 (sft n7187 mutants)..")
 p39 = smt_agg_UMIs_single_batch(
 object_name="singleMers_plate39_sft_dynabeads",
 umiTab_dir = umi_tab_dir,
-pd_dir= "/net/mraid14/export/data/users/zoharme/tomato_Sc/workdir/plates_design/",
+pd_dir= plates_design_dir,
 batch_umiTab="ABZM0411")
 
 }
@@ -1118,21 +1118,21 @@ print("loading plate42 (uf mutants)..")
 p42 = smt_agg_UMIs_single_batch(
 object_name="singleMers_plate42_uf_dynabeads",
 umiTab_dir = umi_tab_dir,
-pd_dir= "/net/mraid14/export/data/users/zoharme/tomato_Sc/workdir/plates_design/",
+pd_dir= plates_design_dir,
 batch_umiTab="ABZM0415")
 
 print("loading plate43 (uf mutants)..")
 p43 = smt_agg_UMIs_single_batch(
 object_name="singleMers_plate43_uf_dynabeads",
 umiTab_dir = umi_tab_dir,
-pd_dir= "/net/mraid14/export/data/users/zoharme/tomato_Sc/workdir/plates_design/",
+pd_dir= plates_design_dir,
 batch_umiTab="ABZM0416")
 
 print("loading plate44 (uf mutants)..")
 p44 = smt_agg_UMIs_single_batch(
 object_name="singleMers_plate44_uf_dynabeads",
 umiTab_dir = umi_tab_dir,
-pd_dir= "/net/mraid14/export/data/users/zoharme/tomato_Sc/workdir/plates_design/",
+pd_dir= plates_design_dir,
 batch_umiTab="ABZM0417")
 }
 
@@ -1141,14 +1141,14 @@ print("loading plate48 (dst;sft double mutants)..")
 p48 = smt_agg_UMIs_single_batch(
 object_name="singleMers_plate48_dstsft_dynabeads",
 umiTab_dir = umi_tab_dir,
-pd_dir= "/net/mraid14/export/data/users/zoharme/tomato_Sc/workdir/plates_design/",
+pd_dir= plates_design_dir,
 batch_umiTab="ABZM0421")
 
 print("loading plate49 (dst;sft double mutants)..")
 p49 = smt_agg_UMIs_single_batch(
 object_name="singleMers_plate49_dstsft_dynabeads",
 umiTab_dir = umi_tab_dir,
-pd_dir= "/net/mraid14/export/data/users/zoharme/tomato_Sc/workdir/plates_design/",
+pd_dir= plates_design_dir,
 batch_umiTab="ABZM0422")
 }
 
