@@ -93,7 +93,9 @@ smt_load_technical_replicates(minimal_umi_per_replicate = 1e5,
 								blacklist_meristems = "sMer_mix_mistake_plate29_empty_2",
 								blacklist_genes = substring(mod_apoptosis,1,14))
 #								
-# we can plot examples of such comparison for some genes (note that estimates become naturally more robust as genes are expressed at higher levels)
+# we can plot examples of such comparison for some genes 
+# (note that estimates become naturally more robust as genes are expressed at higher levels - 
+# e.g, if replicated are downsampled to 100K UMIs, then a gene estimated to have 50 UMIs will have +/- sqrt(50) just from sampling noise)
 #
 example_genes = c("Solyc01g067540_YE_ERF_12_PUCHI",
 				  "Solyc01g091420_YE_LOB_domain_30_CR_LBD30",
