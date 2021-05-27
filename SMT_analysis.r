@@ -22,8 +22,7 @@
 
 
 #load  project functions and common gene names
-#source("SMT_nat_plants_2021_functions.r")
-source("/net/mraid14/export/data/users/zoharme/tomato_Sc/workdir/gitHub_code/SMT_nat_plants_2021_functions.r")
+source("SMT_nat_plants_2021_functions.r")
 smt_load_common_nms()
 
 #load dependency packages
